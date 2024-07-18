@@ -1,8 +1,10 @@
 # music-player
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![Screenshot (41)](https://github.com/user-attachments/assets/85bf7114-8afc-4522-a5b5-4712c87b4b62)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Screenshot (42)](https://github.com/user-attachments/assets/fdcf1214-6360-4aa6-a909-2131ab217bc0)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/afab0e02-ede7-4ada-a55a-0fa7519d6980)
 
 - [Demo Project](https://asalyaraki.github.io/music-player/)
 
